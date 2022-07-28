@@ -1,3 +1,4 @@
-<html>
-<p>Codigo HTML</p>
-</html>
+
+<?php
+echo "Prueba";
+?>
